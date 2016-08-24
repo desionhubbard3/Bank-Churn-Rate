@@ -3,3 +3,7 @@ This project is an analysis into the abnormal churn rates of a European bank tha
 
 #Data Preparation
 
+##Comma Delimiter and Text Qualifier
+We will first run the .txt file through Excel to apply a comma delimiter and text qualifier. 
+
+
